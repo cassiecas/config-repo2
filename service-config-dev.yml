@@ -1,5 +1,5 @@
 mysql:
-  url: dev-http://localhost:3306/test
+  url: dev-mysql://localhost:3306/test
 gateway:
   maxTimes: 5
   timeInterval: 1
