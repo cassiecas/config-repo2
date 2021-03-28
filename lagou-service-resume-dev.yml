@@ -1,4 +1,7 @@
 mysql:
   url: dev-http://localhost:3306/test
-lagou:
-  message: hello world lalala
+gateway:
+  maxTimes: 5
+  timeInterval: 1
+email:
+  host: smtp.163.com
