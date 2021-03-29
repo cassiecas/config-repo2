@@ -1,7 +1,7 @@
 mysql:
   url: dev-mysql://localhost:3306/test
 gateway:
-  maxTimes: 20
+  maxTimes: 2
   timeInterval: 1
 email:
   host: smtp.163.com
